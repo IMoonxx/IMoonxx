@@ -85,9 +85,7 @@ A terminal-based project built to practise Python programming fundamentals, incl
 
 <div align="center">
 
-*“In God we trust. All others must bring data.”*
-
-🌷 Thanks for stopping by! 🌷
+🪷 Thanks for stopping by! 🪷
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FCE7F3,DDD6FE,F8C8DC&height=90&section=footer" width="100%" />
 
