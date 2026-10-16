@@ -36,7 +36,7 @@ An ongoing simulation-based study of how sample size, noise, model complexity, a
 
 **Focus:** Monte Carlo simulation, RMSE, MAE, R², and generalisation gap.
 
-[View project](https://github.com/YOUR-USERNAME/YOUR-SIMULATION-REPO)
+[View project](https://github.com/IMoonxx/Generalisation-Error-project)
 
 </td>
 <td width="50%">
@@ -47,7 +47,7 @@ An applied statistical analysis exploring relationships between influencer campa
 
 **Focus:** Correlation, regression, Excel, and Power BI.
 
-[View project](https://github.com/YOUR-USERNAME/YOUR-ROI-REPO)
+[View project](https://github.com/IMoonxx/Influencer-Marketing-ROI-Analysis)
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ An applied statistical analysis exploring relationships between influencer campa
 
 A terminal-based project built to practise Python programming fundamentals, including functions, loops, conditionals, and randomisation.
 
-[View project](https://github.com/YOUR-USERNAME/YOUR-BLACKJACK-REPO)
+[View project](https://github.com/IMoonxx/blackjack-python)
 
 </td>
 </tr>
